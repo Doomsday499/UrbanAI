@@ -2,7 +2,6 @@
 baseurl: "https://urbanai.dev"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "G-7F7QYXGW12"
 
 # UI configs
 title: "UrbanAI"
