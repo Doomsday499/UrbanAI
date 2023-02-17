@@ -1993,3 +1993,8 @@
 		#footer .copyright a {
 			color: inherit;
 		}
+		#footer .gdpr {
+			color: #505051;
+			font-size: 0.9em;
+		}
+	
